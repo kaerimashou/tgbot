@@ -3,7 +3,7 @@ spring:
     name: "tgbot"
 
 bot:
-  name: ikonnikau_api_bot
-  token: 8268423172:AAHt6ggWx_NyuU46VyyvgkXb2eF0DNhml-E
+  name: ${TG_BOT_NAME}
+  token: ${TG_BOT_TOKEN}
 
 
